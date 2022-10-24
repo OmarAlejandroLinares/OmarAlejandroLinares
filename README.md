@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OmarAlejandroLinares
 - 👀 I’m interested in Brain Computer Interface.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning applied to BCI's.
+- 💞️ I’m looking to collaborate on Open Brain Computer Interface development
 - 📫 How to reach me: omar.ypj@gmail.com
 
 <!---
